@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/piroyuki-hub/typescript-javascript-developers/issues"
   },
-  "homepage": "https://github.com/piroyuki-hub/typescript-javascript-developers#readme"
+  "homepage": "https://github.com/piroyuki-hub/typescript-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
